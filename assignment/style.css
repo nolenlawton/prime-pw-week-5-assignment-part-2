@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    background-image: url('record.png');
+    background-repeat: repeat; /* already repeated? */
+}
+
+.header {
+    font-family: system-ui;
+    background-color: #4A4847;
+    color: #F5B7B1;
+    text-align: center;
+    opacity: 99%;
+}
+
+.headerTopText {
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.headerBottomText {
+    margin: 0;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.main {
+    font-family: system-ui;
+    background-color: lightgrey;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    opacity: 99%;
+    padding: 1em;
+}
+
